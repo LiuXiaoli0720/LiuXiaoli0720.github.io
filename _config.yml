@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "liuxiaoli's blog"
 title_separator          : "-"
 name                     : &name "Liu Xiaoli（刘骁郦）"
 description              : &description "I'm pursuing a Ph.D. degree in the SCSE, UESTC. My research interests include Spiking Neural Networks, Brain-inspired Computing and Brain-computer Interfaces"
@@ -22,10 +22,10 @@ repository               : "LiuXiaoli0720/LiuXiaoli0720.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liu Xiaoli（刘骁郦）"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I'm pursuing a Ph.D. degree in the SCSE, UESTC. My research interests include Spiking Neural Networks, Brain-inspired Computing and Brain-computer Interfaces."
+  location         : "Chengdu, China"
   employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
   email            : "liuxiaoli0720@std.uestc.edu.cn" 
